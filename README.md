@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SURAJ VERMA</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
-<img align="right"alt="coding"width="400" \src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right"alt="coding"width="400" \src="https://tse4.mm.bing.net/th?id=OIP.hQR3_tCL_phZgIK80wnOcAHaFj&pid=Api&P=0&h=180">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-verma-796280237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-verma-796280237" height="30" width="40" /></a>
